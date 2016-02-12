@@ -30,6 +30,7 @@ Re-login and enjoy Python
 If you use Anaconda on your PC, the following commands need to be run in Anaconda prompt
 ##### Install `remote_ikernel` utility
 ```
+sudo apt-get install python-pip
 pip install remote_ikernel
 ```
 ##### Run the script
