@@ -4,7 +4,7 @@
 #### (local PC) Enable passwordless ssh login to Grace
 ```
 # Linux
-ssh keygen
+ssh-keygen
 ssh-copy-id -i ~/.ssh/id_rsa.pub abc12xyz@grace.uea.ac.uk
 ```
 Windows: use putty
